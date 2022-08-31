@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --parent *html alx-system_engineering-devops/ 
+cp -u *html *.* ..
