@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | cat "/etc/passwd" | Head
+echo | cat "/etc/passwd" | Head-10
