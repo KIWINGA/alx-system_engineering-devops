@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | cat |tail-10 "/etc/passwd"
+echo | cat "/etc/passwd" | tail-10
